@@ -7,12 +7,11 @@
   "files": [
     "console.js"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
-    "tsc": "tsc",
-    "postinstall": "typings install"
+    "tsc": "tsc"
   },
-  "license": "Seezart",
+  "license": "MIT",
   "dependencies": {
     "sockjs-client": "latest",
     "request": "latest"
