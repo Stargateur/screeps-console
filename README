@@ -1,0 +1,10 @@
+Little script in js to see console output in screeps
+
+config in console.json
+
+{
+  "user": "", // name or email
+  "password": ""
+}
+
+node console.js

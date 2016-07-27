@@ -1,0 +1,23 @@
+{
+  "name": "screeps-console",
+  "author": {
+    "name": "PLASKOWSKI Antoine",
+    "email": "antoine.plaskowski@epitech.eu"
+  },
+  "files": [
+    "console.js"
+  ],
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "license": "Seezart",
+  "dependencies": {
+    "sockjs-client": "latest",
+    "request": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "typings": "latest"
+  },
+  "private": false
+}
