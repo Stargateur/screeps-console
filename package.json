@@ -9,6 +9,8 @@
   ],
   "version": "1.0.0",
   "scripts": {
+    "tsc": "tsc",
+    "postinstall": "typings install"
   },
   "license": "Seezart",
   "dependencies": {
